@@ -1,4 +1,4 @@
-![logo](/1_demo/public/pwa-512x512.png)
+![logo](/public/pwa-512x512.png)
 
 # Day 3 - Task Indexed DB
 #### Training PWA - BLI Sentul
